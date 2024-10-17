@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pytest
+mongomock
+numpy==1.21.5
+scikit-learn==1.0.2
