@@ -1,0 +1,1 @@
+docker build -t airport_delay_api .
