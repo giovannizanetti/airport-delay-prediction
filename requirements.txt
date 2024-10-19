@@ -3,5 +3,6 @@ uvicorn
 pytest
 mongomock
 httpx
+requests
 numpy==1.21.5
 scikit-learn==1.0.2

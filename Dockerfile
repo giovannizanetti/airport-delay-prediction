@@ -5,6 +5,7 @@ RUN pip install -r requirements.txt
 
 COPY src/ /app/src
 COPY models/ /app/models
+COPY data/ /app/data
 
 WORKDIR /app/src/
 
